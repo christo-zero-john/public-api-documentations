@@ -1,0 +1,83 @@
+{
+  "API": [
+    {
+      "id": "",
+      "name": "",
+      "description": "",
+      "authentication": "",
+      "methods": ["cors", "http"],
+      "dataReturnedAs": ["json", "xml"],
+      "apiBaseUrl": "",
+      "officialDocs": "",
+      "projects": ["", ""]
+    }
+  ],
+  "documentations": [
+    {
+      "apiId": "",
+      "version": [
+        {
+          "vName": "",
+          "requirements": ["", "", ""],
+          "endpoints": [
+            {
+              "url": "",
+              "title": "",
+              "description": "",
+              "parameters": [
+                {
+                  "name": "",
+                  "values": [
+                    {
+                      "type": "",
+                      "range": "",
+                      "additionalInfo": ""
+                    }
+                  ]
+                }
+              ],
+              "exampleUrl": ""
+            }
+          ],
+          "usecases": [
+            {
+              "title": "",
+              "requirements": ["", "", ""],
+              "endpoints": ["", ""],
+              "description": ""
+            }
+          ],
+          "projects": [
+            {
+              "name": "",
+              "id": "",
+              "description": "",
+              "sourceCodeUrl": "",
+              "liveUrl": "",
+              "developer": ""
+            }
+          ],
+          "examples": [
+            {
+              "name": "",
+              "liveUrl": "",
+              "id": "",
+              "explanation": "",
+              "otherDependencies": ["", "", ""],
+              "toolsUsed": ["", "", ""]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "",
+      "username": "",
+      "name": "",
+      "projects": ["", "", ""],
+      "roles": ["", "", ""]
+    }
+  ]
+}
