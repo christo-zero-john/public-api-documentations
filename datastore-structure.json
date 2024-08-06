@@ -1,4 +1,20 @@
+// This is the overall database structure of the project in firestore.
+
 {
+  "basicData": {
+    "roles": [
+      {
+        "name": "",
+        "roleId": ""
+      }
+    ],
+    "requests": [
+      {
+        "name": "",
+        "userId": ""
+      }
+    ]
+  },
   "API": [
     {
       "id": "",
@@ -77,7 +93,8 @@
       "username": "",
       "name": "",
       "projects": ["", "", ""],
-      "roles": ["", "", ""]
+      "roles": ["", "", ""],
+      "contributions": ["", "", ""]
     }
   ]
 }
